@@ -1,0 +1,14 @@
+﻿  AssetManager.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\collision.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+d:\universitasbrawijaya\semester 6\pemrograman gim\vs repos\kenapaayammenyebrangjalan\kenapaayammenyebrangjalan\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
